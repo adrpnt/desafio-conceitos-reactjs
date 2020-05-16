@@ -17,7 +17,7 @@ Será continuada a aplicação que irá armazenar repositórios do seu portfóli
 ### Executando o projeto
 
 ```
-yarn dev
+yarn start
 ```
 
 ### Específicação dos testes
