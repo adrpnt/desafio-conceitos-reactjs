@@ -30,8 +30,7 @@ function App() {
     const newRepositories = repositories;
 
     newRepositories.splice(repositoryIndex, 1);
-    console.log(newRepositories);
-
+    
     setRepositories([...newRepositories]);
   }
 
